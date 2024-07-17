@@ -1,0 +1,60 @@
+{
+    "Status Konsumen": {
+        "New": [
+            "Selamat datang! Jelajahi produk dan layanan kami yang dirancang khusus untuk Anda. Dapatkan diskon khusus pelanggan baru!",
+            "Hai! Temukan sesuatu yang baru di [Nama Bisnis Anda]. Nikmati penawaran spesial hanya untuk Anda!",
+            "Selamat datang di [Nama Bisnis Anda]! Mulai perjalanan Anda dengan kami dan dapatkan penawaran eksklusif sekarang!",
+            "Terima kasih telah bergabung! Nikmati diskon 20% untuk pembelian pertama Anda.",
+            "Baru di sini? Kami punya kejutan spesial untuk Anda! Dapatkan diskon 15% untuk pembelian pertama Anda.",
+            "Selamat datang di keluarga kami! Manfaatkan diskon 10% untuk pembelian pertama Anda.",
+            "Baru bergabung? Dapatkan voucher senilai Rp50.000 untuk pembelian pertama Anda.",
+            "Jelajahi koleksi kami dan nikmati diskon khusus untuk pelanggan baru. Selamat berbelanja!",
+            "Selamat datang! Kami siap membantu kebutuhan Anda. Dapatkan penawaran eksklusif untuk pembelian pertama Anda.",
+            "Terima kasih telah memilih kami! Dapatkan hadiah spesial dengan mendaftar sekarang."
+        ],
+        "Cold": [
+            "Kami merindukan Anda! Lihat apa yang baru di [Nama Bisnis Anda]. Dapatkan diskon 10% untuk pembelian Anda berikutnya.",
+            "Sudah lama tidak berjumpa! Kembali dan temukan produk baru yang mungkin Anda sukai. Diskon khusus menanti Anda!",
+            "Kami ingin melihat Anda kembali! Kunjungi kami dan dapatkan penawaran spesial untuk pembelian berikutnya.",
+            "Ayo kembali ke [Nama Bisnis Anda]! Dapatkan diskon 15% untuk semua produk selama satu minggu.",
+            "Kami merindukan kehadiran Anda! Lihat apa yang baru di toko kami dan dapatkan penawaran eksklusif.",
+            "Kunjungi kami lagi dan dapatkan penawaran spesial! Diskon 10% untuk pembelian Anda berikutnya.",
+            "Sudah lama tak berjumpa! Kami punya produk baru yang mungkin Anda suka. Dapatkan diskon khusus untuk Anda.",
+            "Kami rindu Anda! Temukan produk terbaru kami dan nikmati penawaran eksklusif.",
+            "Kembali dan lihat apa yang baru! Dapatkan diskon khusus untuk pelanggan lama.",
+            "Kami menunggu Anda kembali! Lihat koleksi terbaru kami dengan penawaran spesial."
+        ],
+        "Warm": [
+            "Terima kasih telah tertarik dengan produk kami! Gunakan kode WARM10 untuk diskon 10% pada pembelian berikutnya.",
+            "Kami menghargai minat Anda! Lihat produk rekomendasi terbaru kami dan nikmati diskon 10% dengan kode WARM10.",
+            "Minat Anda penting bagi kami! Temukan produk yang kami rekomendasikan untuk Anda dan nikmati diskon 10%.",
+            "Terima kasih telah menunjukkan minat pada produk kami. Nikmati diskon eksklusif 15% dengan kode THANKYOU15.",
+            "Kami senang Anda tertarik! Dapatkan diskon khusus 10% untuk produk pilihan Anda. Gunakan kode WARM10.",
+            "Kami menghargai minat Anda pada produk kami! Dapatkan diskon khusus untuk pembelian berikutnya.",
+            "Lihat produk terbaru kami yang mungkin Anda suka. Gunakan kode WARM10 untuk mendapatkan diskon 10%.",
+            "Minat Anda berharga bagi kami! Lihat koleksi terbaru kami dan nikmati diskon spesial.",
+            "Terima kasih telah tertarik! Temukan lebih banyak produk menarik dengan penawaran khusus.",
+            "Kami menghargai perhatian Anda! Dapatkan diskon eksklusif untuk pembelian berikutnya dengan kode WARM10."
+        ],
+        "Hot": [
+            "Produk favorit Anda tersedia sekarang! Dapatkan segera dan nikmati pengiriman gratis untuk pembelian di atas [jumlah tertentu].",
+            "Jangan lewatkan kesempatan ini! Produk terbaik kami menanti Anda. Beli sekarang dan nikmati penawaran spesial!",
+            "Segera dapatkan produk yang Anda inginkan! Stok terbatas, jadi jangan sampai ketinggalan. Pengiriman gratis untuk pembelian tertentu.",
+            "Penawaran terbatas! Beli sekarang dan nikmati diskon tambahan 5% plus pengiriman gratis.",
+            "Saatnya beraksi! Produk yang Anda inginkan sedang diskon. Pesan sekarang dan hemat lebih banyak.",
+            "Jangan lewatkan! Produk yang Anda incar tersedia sekarang. Dapatkan segera dengan penawaran spesial.",
+            "Waktunya membeli! Produk favorit Anda tersedia dengan stok terbatas. Pesan sekarang juga!",
+            "Produk terlaris kembali tersedia! Beli sekarang sebelum kehabisan dan dapatkan pengiriman gratis.",
+            "Saat yang tepat untuk membeli! Produk unggulan kami sedang diskon. Nikmati penawaran ini sekarang!",
+            "Penawaran istimewa hanya untuk Anda! Beli sekarang dan nikmati harga spesial plus pengiriman gratis."
+        ],
+        "Lost": [
+            "Kami ingin Anda kembali! Nikmati diskon khusus 15% untuk pembelian Anda berikutnya.",
+            "Kami merindukan Anda di [Nama Bisnis Anda]. Kembali dan dapatkan penawaran eksklusif hanya untuk Anda!",
+            "Ayo kembali! Banyak produk baru menanti Anda. Dapatkan diskon 15% untuk pembelian Anda berikutnya.",
+            "Kami rindu Anda! Temukan kembali produk favorit Anda dan nikmati diskon eksklusif 20%.",
+            "Jangan lewatkan! Diskon 15% untuk pelanggan yang kembali. Temukan produk baru kami sekarang.",
+            "Kami merindukan kehadiran Anda! Dapatkan diskon khusus untuk pembelian berikutnya."
+        ]
+    }
+}
